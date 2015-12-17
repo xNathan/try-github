@@ -5,3 +5,5 @@ Made some changes
 2. This is second modification
 
 # TODO: I'm going to add some sensitive data
+USER_NAME: 'YOUR_USER_NAME'
+PASSWORD: 'YOUR_PASSWORD'
