@@ -7,3 +7,5 @@ Made some changes
 # TODO: I'm going to add some sensitive data
 USER_NAME: 'YOUR_USER_NAME'
 PASSWORD: 'YOUR_PASSWORD'
+
+Test add and reset
