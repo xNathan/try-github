@@ -9,3 +9,5 @@ USER_NAME: 'YOUR_USER_NAME'
 PASSWORD: 'YOUR_PASSWORD'
 
 Test add and reset
+
+Make my email private
